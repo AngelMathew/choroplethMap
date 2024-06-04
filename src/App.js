@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import Worldmap from './components/Worldmap/Worldmap';
-import Sample from './components/sample/sample';
+
 
 function App() {
 
@@ -10,7 +9,6 @@ function App() {
       <header className="App-header">
       </header>
       <Worldmap/>
-      {/* <Sample/> */}
     </div>
   );
 }

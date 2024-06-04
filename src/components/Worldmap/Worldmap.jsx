@@ -1,6 +1,5 @@
 import React, {useState, useEffect} from 'react';
 import * as d3 from "d3";
-// import * as topojson from "topojson";
 import { feature } from 'topojson';
 import './Worldmap.css';
 import ColorLegend from '../ColorLegend/ColorLegend';
